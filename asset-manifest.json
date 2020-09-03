@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_goods-selector/static/css/main.1e914b55.chunk.css",
+    "main.js": "/react_goods-selector/static/js/main.797198a2.chunk.js",
+    "main.js.map": "/react_goods-selector/static/js/main.797198a2.chunk.js.map",
+    "runtime-main.js": "/react_goods-selector/static/js/runtime-main.df240bf3.js",
+    "runtime-main.js.map": "/react_goods-selector/static/js/runtime-main.df240bf3.js.map",
+    "static/js/2.22b5d565.chunk.js": "/react_goods-selector/static/js/2.22b5d565.chunk.js",
+    "static/js/2.22b5d565.chunk.js.map": "/react_goods-selector/static/js/2.22b5d565.chunk.js.map",
+    "index.html": "/react_goods-selector/index.html",
+    "precache-manifest.6b848c70fe046f4af7f164c8f40c4fa9.js": "/react_goods-selector/precache-manifest.6b848c70fe046f4af7f164c8f40c4fa9.js",
+    "service-worker.js": "/react_goods-selector/service-worker.js",
+    "static/css/main.1e914b55.chunk.css.map": "/react_goods-selector/static/css/main.1e914b55.chunk.css.map",
+    "static/js/2.22b5d565.chunk.js.LICENSE.txt": "/react_goods-selector/static/js/2.22b5d565.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df240bf3.js",
+    "static/js/2.22b5d565.chunk.js",
+    "static/css/main.1e914b55.chunk.css",
+    "static/js/main.797198a2.chunk.js"
+  ]
+}
